@@ -1,6 +1,6 @@
 # Habitat-
 
-Habitat is a Property selling and buying app which is made using android studio
+Habitat is a Property selling and buying app which is made using android studio and database used for this project is firebase
 
 
 # App ScreenShots 
