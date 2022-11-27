@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488280013787",
+    "project_id": "xome-f8f80",
+    "storage_bucket": "xome-f8f80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488280013787:android:92acb4a2e219569ed205fe",
+        "android_client_info": {
+          "package_name": "com.example.xome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488280013787-50sr7mo4j21v9nh2d8elkldrbulk1sgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHH2STDct8yPdJMSesbbX3xjz-f4a1Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488280013787-50sr7mo4j21v9nh2d8elkldrbulk1sgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

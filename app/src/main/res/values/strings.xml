@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Habitat</string>
+    <string name="login">Login</string>
+    <string name="SignUp">SignUp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="or">Or</string>
+    <string name="Username">Username</string>
+    <string name="Submit">Submit</string>
+    <string name="home">Home</string>
+    <string name="form">Sell/Rent your property</string>
+    <string name="Logout">Log out</string>
+    <string name="habitat">Habitat</string>
+    <string name="type">Type</string>
+    <string name="city">City</string>
+    <string name="pincode">Pincode</string>
+    <string name="property_name">Property Name</string>
+    <string name="enter_property_details">Enter Property details</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="price">Price</string>
+    <string name="address">Address</string>
+    <string name="bhk_s">BHK</string>
+    <string name="state">State</string>
+    <string name="post_ad">Post Ad</string>
+    <string name="forr">FOR</string>
+    <string name="sale">SALE</string>
+    <string name="rent">RENT</string>
+    <string name="num">NUM</string>
+    <string name="toll_free">Toll free:</string>
+    <string name="nummm">1800 57 57 22</string>
+</resources>
